@@ -1,0 +1,8 @@
+carrier,total_records,avg_download_speed_mbps,avg_latency_ms,avg_signal_strength_dbm,drop_rate_percent
+Vi,6097,552.32,10.45,-84.74,50.19
+Verizon,8327,549.63,10.51,-84.68,49.0
+Airtel,6252,548.85,10.54,-84.92,49.79
+T-Mobile,8375,552.67,10.43,-84.93,50.75
+Jio,6256,545.48,10.57,-85.05,49.89
+BSNL,6311,558.11,10.52,-84.87,50.72
+AT&T,8382,551.18,10.49,-84.72,50.18

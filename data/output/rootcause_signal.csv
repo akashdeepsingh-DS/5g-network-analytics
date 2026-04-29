@@ -1,0 +1,4 @@
+signal_quality,total_records,drop_rate_percent,avg_latency
+Good,20362,50.02,10.51
+Poor,9876,50.14,10.46
+Moderate,19762,50.06,10.5

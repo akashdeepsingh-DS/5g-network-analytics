@@ -1,0 +1,4 @@
+network_congestion_level,total_records,drop_rate_percent,avg_download_speed,avg_latency
+High,16477,49.65,554.45,10.46
+Low,16791,50.61,550.87,10.51
+Medium,16732,49.92,548.28,10.52

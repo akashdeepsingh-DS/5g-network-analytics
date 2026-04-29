@@ -1,0 +1,9 @@
+location,total_records,avg_download_speed_mbps,avg_latency_ms,avg_jitter_ms,drop_rate_percent
+Chennai,6236,549.4,10.52,2.55,48.97
+Berlin,6346,551.76,10.32,2.55,49.91
+San Francisco,6221,553.01,10.61,2.59,50.75
+Mumbai,6248,550.04,10.5,2.61,50.7
+Tokyo,6299,550.96,10.56,2.54,49.17
+Kolkata,6219,557.03,10.48,2.55,50.23
+Delhi,6213,548.34,10.59,2.57,50.68
+New York,6218,548.91,10.42,2.54,50.1

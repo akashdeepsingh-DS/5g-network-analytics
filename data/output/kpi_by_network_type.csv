@@ -1,0 +1,4 @@
+network_type,total_records,avg_download_speed_mbps,avg_upload_speed_mbps,avg_latency_ms,avg_jitter_ms,drop_rate_percent
+5G NSA,16793,552.88,84.56,10.47,2.54,50.04
+5G SA,16658,549.29,84.95,10.53,2.56,50.67
+4G,16549,551.36,84.9,10.49,2.58,49.47

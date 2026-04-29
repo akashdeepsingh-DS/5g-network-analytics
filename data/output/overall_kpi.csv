@@ -1,0 +1,2 @@
+total_records,avg_download_speed_mbps,avg_upload_speed_mbps,avg_latency_ms,avg_jitter_ms,avg_signal_strength_dbm,avg_ping_to_google_ms,dropped_connection_rate_percent
+50000,551.18,84.8,10.5,2.56,-84.84,54.95,50.06

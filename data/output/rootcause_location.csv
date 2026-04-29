@@ -1,0 +1,9 @@
+location,avg_latency,avg_download_speed
+San Francisco,10.61,553.01
+Delhi,10.59,548.34
+Tokyo,10.56,550.96
+Chennai,10.52,549.4
+Mumbai,10.5,550.04
+Kolkata,10.48,557.03
+New York,10.42,548.91
+Berlin,10.32,551.76
