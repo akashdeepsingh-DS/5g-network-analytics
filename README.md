@@ -67,41 +67,24 @@ Poor service quality can lead to:
 
 ## Project Structure
 
-5g-network-analytics/
-
-│── data/
-
-│   ├── raw/
-
-│   ├── processed/
-
-│   └── output/
-
-│
-
-│── src/
-
-│   ├── data_ingestion.py
-
-│   ├── data_cleaning.py
-
-│   ├── feature_engineering.py
-
-│   ├── kpi_analysis.py
-
-│   ├── root_cause_analysis.py
-
-│   ├── anomaly_detection.py
-
-│   └── predictive_model.py
-
-│
-
-│── dashboard/
-
-│── README.md
-
-│── requirements.txt
+    5g-network-analytics/
+    │── data/
+    │   ├── raw/
+    │   ├── processed/
+    │   └── output/
+    │
+    │── src/
+    │   ├── data_ingestion.py
+    │   ├── data_cleaning.py
+    │   ├── feature_engineering.py
+    │   ├── kpi_analysis.py
+    │   ├── root_cause_analysis.py
+    │   ├── anomaly_detection.py
+    │   └── predictive_model.py
+    │
+    │── dashboard/
+    │── README.md
+    │── requirements.txt
 
 ## Dataset Summary
 
