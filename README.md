@@ -68,22 +68,39 @@ Poor service quality can lead to:
 ## Project Structure
 
 5g-network-analytics/
+
 │── data/
+
 │   ├── raw/
+
 │   ├── processed/
+
 │   └── output/
+
 │
+
 │── src/
+
 │   ├── data_ingestion.py
+
 │   ├── data_cleaning.py
+
 │   ├── feature_engineering.py
+
 │   ├── kpi_analysis.py
+
 │   ├── root_cause_analysis.py
+
 │   ├── anomaly_detection.py
+
 │   └── predictive_model.py
+
 │
+
 │── dashboard/
+
 │── README.md
+
 │── requirements.txt
 
 ## Dataset Summary
@@ -280,8 +297,8 @@ Built an interactive operations dashboard with:
 
 - Author
 
-Akash Deep Singh
+    Akash Deep Singh
 
-Barrie, Ontario, Canada
+    Barrie, Ontario, Canada
 
-Data Analyst | Machine Learning | Big Data | AI Enthusiast
+    Data Analyst | Machine Learning | Big Data | AI Enthusiast
