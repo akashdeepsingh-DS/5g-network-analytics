@@ -110,92 +110,92 @@ Poor service quality can lead to:
 ### Key Features
 
 - Data Engineering
-    -- Processed raw telecom telemetry using PySpark
-    -- Cleaned schemas and standardized column names
-    -- Created analytics-ready datasets
+    - Processed raw telecom telemetry using PySpark
+    - Cleaned schemas and standardized column names
+    - Created analytics-ready datasets
 
 - Feature Engineering
 
--- Built derived metrics such as:
+    - Built derived metrics such as:
     
-    Signal quality groups
-    
-    Latency categories
-    
-    Congestion flags
-    
-    Poor signal indicators
-    
-    Total latency
-    
-    Speed difference
+        Signal quality groups
+        
+        Latency categories
+        
+        Congestion flags
+        
+        Poor signal indicators
+        
+        Total latency
+        
+        Speed difference
 
 - KPI Analytics
 
--- Analyzed:
+    - Analyzed:
     
-    Avg download/upload speed
-    
-    Avg latency and jitter
-    
-    Drop rate %
-    
-    Carrier performance
-    
-    City performance
-    
-    4G vs 5G comparison
+        Avg download/upload speed
+        
+        Avg latency and jitter
+        
+        Drop rate %
+        
+        Carrier performance
+        
+        City performance
+        
+        4G vs 5G comparison
 
 - Root Cause Analysis
 
-- -  Explored relationships between:
+    - Explored relationships between:
     
-    Congestion and failures
-    
-    Signal strength and service quality
-    
-    Carrier performance differences
-    
-    Latency hotspots
+        Congestion and failures
+        
+        Signal strength and service quality
+        
+        Carrier performance differences
+        
+        Latency hotspots
 
 - Anomaly Detection
 
-- - Used Isolation Forest to identify abnormal sessions such as:
+    - Used Isolation Forest to identify abnormal sessions such as:
     
-    Latency spikes
-    
-    Poor throughput
-    
-    Weak signal events
+        Latency spikes
+        
+        Poor throughput
+        
+        Weak signal events
 
 - Predictive Modeling
-- - Built a Random Forest classifier to predict dropped connections and evaluate feature importance.
+    - Built a Random Forest classifier to predict dropped connections and evaluate feature importance.
 
 ### Key Results
 
-- - KPI Highlights
+- KPI Highlights
     
-    Total Sessions: 50,000
+    - Total Sessions: 50,000
     
-    Avg Download Speed: 551 Mbps
+    - Avg Download Speed: 551 Mbps
     
-    Avg Upload Speed: 84 Mbps
+    - Avg Upload Speed: 84 Mbps
     
-    Avg Latency: 10.5 ms
+    - Avg Latency: 10.5 ms
     
-    Drop Rate: 50%
+    - Drop Rate: 50%
 
 - Anomaly Detection
     
-    Normal Sessions: 48,500
+    - Normal Sessions: 48,500
     
-    Anomalies Detected: 1,500   
+    - Anomalies Detected: 1,500   
 
 - Model Output
     
-    Random Forest Accuracy: 49%
+    - Random Forest Accuracy: 49%
     
-    Demonstrated importance of data quality and target signal in ML workflows
+    - Demonstrated importance of data quality and target signal in ML workflows
 
 
 ## Power BI Dashboard
@@ -204,38 +204,41 @@ Built an interactive operations dashboard with:
 
 - Executive Summary
     
-    - - Total Sessions
+    - Total Sessions
     
-    - - Avg Speed
+    - Avg Speed
     
-    - - Avg Latency
+    - Avg Latency
     
-    - - Drop Rate
+    - Drop Rate
     
-    - - Anomaly Count
+    - Anomaly Count
 
 - Performance Analysis
     
-    - - Carrier comparison
+    - Carrier comparison
     
-    - - Speed by city
+    - Speed by city
     
-    - - Latency trends
+    - Latency trends
     
-    - - Signal quality insights
+    - Signal quality insights
 
 - Failure Intelligence
     
-    - - Drop rate by congestion
+    - Drop rate by congestion
     
-    - - Drop rate by signal quality
+    - Drop rate by signal quality
     
-    - - Root cause visuals
+    - Root cause visuals
 
 - AI Monitoring
-    - - Anomaly trends
-    - - Feature importance
-    - - Risk indicators
+
+    - Anomaly trends
+
+    - Feature importance
+
+    - Risk indicators
 
 
 ## How to Run
